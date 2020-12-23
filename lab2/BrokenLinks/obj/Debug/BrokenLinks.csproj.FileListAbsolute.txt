@@ -1,0 +1,11 @@
+C:\Users\Андрей\source\repos\lab2\BrokenLinks\bin\Debug\BrokenLinks.exe.config
+C:\Users\Андрей\source\repos\lab2\BrokenLinks\bin\Debug\BrokenLinks.exe
+C:\Users\Андрей\source\repos\lab2\BrokenLinks\bin\Debug\BrokenLinks.pdb
+C:\Users\Андрей\source\repos\lab2\BrokenLinks\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Андрей\source\repos\lab2\BrokenLinks\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Андрей\source\repos\lab2\BrokenLinks\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Андрей\source\repos\lab2\BrokenLinks\obj\Debug\BrokenLinks.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\lab2\BrokenLinks\obj\Debug\BrokenLinks.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\lab2\BrokenLinks\obj\Debug\BrokenLinks.csproj.CopyComplete
+C:\Users\Андрей\source\repos\lab2\BrokenLinks\obj\Debug\BrokenLinks.exe
+C:\Users\Андрей\source\repos\lab2\BrokenLinks\obj\Debug\BrokenLinks.pdb
